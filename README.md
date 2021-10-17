@@ -59,7 +59,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Project Developed
 <h4 align="center">
 	<img src="img_readme/todo_1.png"><br/>
-	<img src="img_readme/todo_2.png"><br/>
+	<img src="img_readme/todo2_.png"><br/>
 </h4>
 
 ## Learn More
